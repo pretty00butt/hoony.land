@@ -1,0 +1,18 @@
+{
+  "title": "Hoonyland",
+  "author": "Hoony Change (aka 춘식)",
+  "headerTitle": "Hoonyland",
+  "description": "Welcome to Hoonyland",
+  "language": "ko-kr",
+  "siteUrl": "https://hoony.land",
+  "siteRepo": "https://github.com/hoonyland/hoonyland",
+  "siteLogo": "/static/images/logo.png",
+  "image": "/static/images/avatar.png",
+  "socialBanner": "/static/images/twitter-card.png",
+  "email": "address@yoursite.com",
+  "github": "https://github.com/hoonyland",
+  "twitter": "https://twitter.com/hoonyland_",
+  "facebook": "https://facebook.com/hoonyland30",
+  "linkedin": "https://www.linkedin.com/in/hoonyland/",
+  "locale": "en-US"
+}
