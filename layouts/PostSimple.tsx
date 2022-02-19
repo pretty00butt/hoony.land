@@ -19,7 +19,11 @@ export default function PostLayout({ frontMatter, next, prev, children }: Props)
 
   return (
     <SectionContainer>
-      <BlogSeo url={`${siteMetadata.siteUrl}/blog/${slug}`} {...frontMatter} />
+      <BlogSeo
+        images={frontMatter.images}
+        url={`${siteMetadata.siteUrl}/blog/${slug}`}
+        {...frontMatter}
+      />
       <article>
         <div>
           <header>
