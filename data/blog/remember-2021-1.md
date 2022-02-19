@@ -1,11 +1,11 @@
 ---
-title: '22년 회고 1. 해커와 화가. 나는 예술가가 되고 싶은가?'
+title: '21년 회고 1. 해커와 화가. 나는 예술가가 되고 싶은가?'
 date: '2022-02-19'
 tags: ['essay', 'thoughts', 'art', 'hacking', 'rememberance']
 draft: false
 summary: 나를 작고 천천히 깊게 만들어 주는 것들로, 어떤 의미에서 명상적인 삶의 과정의 완성을 위한 것에 내 온 마음과 시간을 다했다. 달리기를 하고 넘치는 정보에 눈을 감고 온라인을 떠나 오프라인에 머물고 작은 것들을 천천히 살피고 요가를 수련했다.
 layout: PostSimple
-images: /static/images/blog/remember-2022-1.jpg
+images: /static/images/blog/remember-2021-1.jpg
 ---
 
 나는 예술가가 되고 싶은가? 누구나 예술가가 될 수 있다지만 모든 창작이 예술은 아니다. 나는 언제나 해소할 수 없었던, 해소되지 않았던 예술에 대한 욕망이 가득했고(하고) 그 욕망은 예술의 소비가 아니라 창작과 표현을 향한 욕구였다.
