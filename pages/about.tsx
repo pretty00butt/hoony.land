@@ -1,6 +1,8 @@
+import { GetStaticProps, InferGetStaticPropsType } from 'next'
+
 import { MDXLayoutRenderer } from '@/components/MDXComponents'
 import { getFileBySlug } from '@/lib/mdx'
-import { GetStaticProps, InferGetStaticPropsType } from 'next'
+
 import { AuthorFrontMatter } from 'types/AuthorFrontMatter'
 
 const DEFAULT_LAYOUT = 'AuthorLayout'
