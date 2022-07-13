@@ -1,7 +1,7 @@
 ---
 name: hoony (aka 춘식)
 avatar: /static/images/avatar.jpg
-occupation: chainlogis & ftto
+occupation: 'chainlogis & ftto'
 email: hoonyland.newsletter@gmail.com
 twitter: https://twitter.com/pretty00butt
 linkedin: https://www.linkedin.com/u/hoonyland
